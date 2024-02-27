@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajalakshmi75&label=Profile%20views&color=0e75b6&style=flat" alt="gajalakshmi75" /> </p>
 
-- 📫 How to reach me **gajalakshmiyarramsetti@gamil.com**
+- 📫 How to reach me **gajalakshmiyarramsetti@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
