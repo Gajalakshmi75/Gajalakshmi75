@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajalakshmi75&label=Profile%20views&color=0e75b6&style=flat" alt="gajalakshmi75" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="gajalakshmi75" /> </p>
 
 - 📫 How to reach me **gajalakshmiyarramsetti@gmail.com**
 
